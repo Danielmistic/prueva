@@ -1,7 +1,3 @@
 # prueva 
-<p>esto es una prueva</p>
-<h1>probando cosas nuevas</h1>
-<div>
-  <a href="google.com"></a>
-</div>
-<p>esto es una modificacion de lo que estamos haciendo</p>
+<p>aprendiendo</p>
+<p>se esta haciendo lo maximo para poder aprender a manejar git</p>
